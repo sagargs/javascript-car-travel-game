@@ -1,0 +1,4 @@
+simple car travel game :-
+press l  -  for on/off light
+press space - for start and stop the car
+press m - to play music
